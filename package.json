@@ -1,0 +1,17 @@
+{
+  "name": "karma-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start karma.conf.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "10.10.1",
+    "karma": "3.0.0",
+    "ts-node": "7.0.1",
+    "typescript": "3.0.3"
+  }
+}
